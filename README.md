@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asahi1121
 - 👀 I’m interested in literature and movies.
-- 🌱 I’m currently learning C programming and animate creating.
+- 🌱 I’m currently learning C# and Python programming and game development.
 - 💞️ I’m looking to collaborate on programme
 - 📫 How to reach me wanxu20031121@gmail.com
 - 😄 Pronouns: He
